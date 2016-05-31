@@ -20,7 +20,9 @@ Remembering from where and how to install tools and packages
    numpy
    scipy
    matplotlib
- also provided... jupyter notebook, ipy notebook and spyder
+   pandas
+   also provided... jupyter notebook, ipy notebook and spyder
+   to run interactive notebook.... start from anaconda prompt... and command.... ipython notebook
 
 
 
