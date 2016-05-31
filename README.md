@@ -15,6 +15,12 @@ Remembering from where and how to install tools and packages
   Search C:\Windows\SoftwareDistribution and delete all cotents
  Restart system and BITS and Win Update
   
+3. Installed anaconda2 for having python libraries
+   installation of anaconda2.exe provides major libraries like
+   numpy
+   scipy
+   matplotlib
+ also provided... jupyter notebook, ipy notebook and spyder
 
 
 
