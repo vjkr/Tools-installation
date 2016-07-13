@@ -26,3 +26,13 @@ Remembering from where and how to install tools and packages
 
 
 
+4. for running py files in anaconda
+  start with anaconda prompt
+  be in the dir where code file is stored. at prompt type > python filename.py
+
+  the results obseved are the requests put inside main()
+  use print command to observe variables
+  
+  for running individual commands... type >python
+  >>> import... so on
+  
